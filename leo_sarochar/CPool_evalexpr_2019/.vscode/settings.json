@@ -1,7 +1,0 @@
-{
-    "files.associations": {
-        "my_eval_expr.h": "c"
-    },
-    "files.trimFinalNewlines": true,
-    "files.trimTrailingWhitespace": true
-}
